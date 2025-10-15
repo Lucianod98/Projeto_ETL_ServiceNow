@@ -9,4 +9,4 @@ export const info = {
     password: process.env.SERVICENOW_PASS || ''
 };
 
-// console.log('Info carregada:', info);
+console.log('Info carregada:', info);
